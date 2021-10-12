@@ -1,0 +1,8 @@
+node_modules/
+bundle.js*
+bundle.js.map
+/public/assets
+/node_modules
+/tmp
+/log/*
+/tmp/*
