@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class DogControllerTest < ActionDispatch::IntegrationTest
+class DogsControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end
